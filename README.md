@@ -1,27 +1,132 @@
-
 <h1 align="center">Hi 👋, I'm Vishnu Prasad</h1>
-<h3 align="center">Full-Stack Developer💻|From 🌍 India</h3>
 
+<h3 align="center">
+Backend Engineer • Distributed Systems • Java • Spring Boot • AWS
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vp337247&label=Profile%20views&color=0e75b6&style=flat" alt="vp337247" /> </p>
-
-- 🌱 I’m currently learning **Next.js**
-
-- 💬 Ask me about **MERN,FrontEnd Development,BackEnd Development**
-
-- 📫 How to reach me **vishnu337247@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/vp337247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vp337247" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vishnu-prasad-mk-071364166" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishnu-prasad-mk-071364166" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/vp337247">
+    <img src="https://komarev.com/ghpvc/?username=vp337247&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vp337247&show_icons=true&locale=en&layout=compact" alt="vp337247" /></p>
+### 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vp337247&show_icons=true&locale=en" alt="vp337247" /></p>
+Backend Engineer with 4+ years of experience building production systems and distributed backend services.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vp337247&" alt="vp337247" /></p>
+I work mainly with **Java, Spring Boot, Node.js, NestJS, PostgreSQL, Kafka, Redis and AWS**, with a focus on reliability, scalability and clean architecture.
+
+Currently exploring **AI-powered backend systems, RAG, LLM applications and agentic workflows**.
+
+- 🔭 Building distributed backend systems and AI-powered applications
+- 🧩 Interested in distributed systems, event-driven architecture and system design
+- ☁️ Working with AWS, Docker, Terraform and CI/CD
+- 🤖 Exploring RAG, LLMs, LangChain and AI agents
+- 🌱 Continuously learning and contributing to open source
+- 📍 India · Open to relocation
+
+---
+
+### 🛠️ Tech Stack
+
+#### Backend
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="40" height="40" alt="NestJS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+</p>
+
+#### Distributed Systems & Messaging
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="40" height="40" alt="Kafka"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" width="40" height="40" alt="RabbitMQ"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" alt="Redis"/>
+</p>
+
+`Microservices` · `Event-Driven Architecture` · `gRPC` · `REST` · `Domain-Driven Design` · `Clean Architecture`
+
+#### Databases
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cassandra/cassandra-original.svg" width="40" height="40" alt="Cassandra"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dynamodb/dynamodb-original.svg" width="40" height="40" alt="DynamoDB"/>
+</p>
+
+#### Cloud & DevOps
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="40" alt="AWS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="40" height="40" alt="GitHub Actions"/>
+</p>
+
+`AWS` · `Docker` · `Terraform` · `GitHub Actions` · `Jenkins` · `CI/CD`
+
+#### AI / Data
+
+`RAG` · `pgvector` · `LLM Applications` · `LangChain` · `LangChain4j` · `Google Gemini` · `Vector Search`
+
+---
+
+### 🚀 Projects
+
+#### ColdChainOS
+Autonomous multi-tenant cold-chain logistics platform.
+
+`Java 21` `Spring Boot 3` `Kafka` `Redis` `PostgreSQL` `AWS` `Terraform`
+
+- Transactional Outbox for reliable event publishing
+- Schema-per-tenant PostgreSQL architecture
+- Event-driven processing with Kafka
+- High-availability backend architecture
+
+#### AI Document Assistant
+
+RAG-based document knowledge retrieval system.
+
+`NestJS` `TypeScript` `PostgreSQL` `pgvector` `Google Gemini`
+
+- Semantic vector retrieval using pgvector
+- HNSW indexing for similarity search
+- Context-grounded LLM responses
+- Source-aware document answers
+
+#### Highly Available PostgreSQL Cluster
+
+`PostgreSQL` `Patroni` `Consul` `HAProxy` `PgBouncer` `Prometheus` `Grafana`
+
+Designed a PostgreSQL high-availability architecture with automated failover, connection pooling and monitoring.
+
+---
+
+### 🏆 Certifications
+
+- AWS Certified Developer – Associate
+- Certified Cybersecurity Educator Professional
+- Python for Data Science
+
+---
+
+### 📚 Currently Exploring
+
+```text
+Distributed Systems
+        ↓
+Event-Driven Architecture
+        ↓
+AI / RAG Systems
+        ↓
+LLM Applications
+        ↓
+AI Agents & Agentic Systems
