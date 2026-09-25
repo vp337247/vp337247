@@ -14,7 +14,7 @@ Backend Engineer • Distributed Systems • Java • Spring Boot • AWS
 
 ### 👨‍💻 About Me
 
-Backend Engineer with 4+ years of experience building production systems and distributed backend services.
+Backend Engineer with 5+ years of experience building production systems and distributed backend services.
 
 I work mainly with **Java, Spring Boot, Node.js, NestJS, PostgreSQL, Kafka, Redis and AWS**, with a focus on reliability, scalability and clean architecture.
 
