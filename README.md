@@ -1,132 +1,185 @@
 <h1 align="center">Hi 👋, I'm Vishnu Prasad</h1>
 
 <h3 align="center">
-Backend Engineer • Distributed Systems • Java • Spring Boot • AWS
+Full-Stack Software Engineer | Java • Spring Boot • Node.js • React • Next.js • AWS
 </h3>
 
 <p align="center">
   <a href="https://github.com/vp337247">
-    <img src="https://komarev.com/ghpvc/?username=vp337247&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=vp337247&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  <img src="https://img.shields.io/github/followers/vp337247?label=Followers&style=flat" alt="GitHub Followers" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/vp337247">
+    <img src="https://img.shields.io/badge/GitHub-vp337247-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/vishnu-prasad-mk-071364166">
+    <img src="https://img.shields.io/badge/LinkedIn-Vishnu%20Prasad-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:vishnu337247@gmail.com">
+    <img src="https://img.shields.io/badge/Email-vishnu337247%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://dev.to/vp337247">
+    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV.to" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-Backend Engineer with 5+ years of experience building production systems and distributed backend services.
+I'm a **Full-Stack Software Engineer with 4+ years of experience** building web applications, backend services, APIs and distributed systems.
 
-I work mainly with **Java, Spring Boot, Node.js, NestJS, PostgreSQL, Kafka, Redis and AWS**, with a focus on reliability, scalability and clean architecture.
+I enjoy working across the entire stack — from designing APIs and databases to building responsive interfaces, integrating cloud services and deploying production systems.
 
-Currently exploring **AI-powered backend systems, RAG, LLM applications and agentic workflows**.
+### What I work with
 
-- 🔭 Building distributed backend systems and AI-powered applications
-- 🧩 Interested in distributed systems, event-driven architecture and system design
-- ☁️ Working with AWS, Docker, Terraform and CI/CD
-- 🤖 Exploring RAG, LLMs, LangChain and AI agents
-- 🌱 Continuously learning and contributing to open source
-- 📍 India · Open to relocation
+- 💻 **Frontend:** React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS
+- ⚙️ **Backend:** Java, Spring Boot, Node.js, NestJS
+- 🔌 **APIs:** REST, GraphQL, gRPC / Protobuf
+- 🗄️ **Databases:** PostgreSQL, MySQL, MongoDB, DynamoDB, Cassandra, Redis
+- 📨 **Messaging:** Apache Kafka, RabbitMQ, BullMQ
+- ☁️ **Cloud:** AWS
+- 🚀 **DevOps:** Docker, Terraform, Jenkins, GitHub Actions
+- 🤖 **AI:** RAG, pgvector, LLM applications, LangChain, LangChain4j, Gemini
+- 📊 **Observability:** Prometheus, Grafana
+- 🧪 **Testing:** Jest, Unit Testing, Integration Testing
 
----
-
-### 🛠️ Tech Stack
-
-#### Backend
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="40" height="40" alt="NestJS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-</p>
-
-#### Distributed Systems & Messaging
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="40" height="40" alt="Kafka"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" width="40" height="40" alt="RabbitMQ"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" alt="Redis"/>
-</p>
-
-`Microservices` · `Event-Driven Architecture` · `gRPC` · `REST` · `Domain-Driven Design` · `Clean Architecture`
-
-#### Databases
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cassandra/cassandra-original.svg" width="40" height="40" alt="Cassandra"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dynamodb/dynamodb-original.svg" width="40" height="40" alt="DynamoDB"/>
-</p>
-
-#### Cloud & DevOps
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="40" alt="AWS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="40" height="40" alt="GitHub Actions"/>
-</p>
-
-`AWS` · `Docker` · `Terraform` · `GitHub Actions` · `Jenkins` · `CI/CD`
-
-#### AI / Data
-
-`RAG` · `pgvector` · `LLM Applications` · `LangChain` · `LangChain4j` · `Google Gemini` · `Vector Search`
+I also enjoy exploring **distributed systems, event-driven architecture, high-availability systems and AI-powered applications**.
 
 ---
 
-### 🚀 Projects
+## 🧰 Tech Stack
 
-#### ColdChainOS
-Autonomous multi-tenant cold-chain logistics platform.
+### 👨‍💻 Languages
 
-`Java 21` `Spring Boot 3` `Kafka` `Redis` `PostgreSQL` `AWS` `Terraform`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,typescript,javascript,python,c" />
+</p>
 
-- Transactional Outbox for reliable event publishing
-- Schema-per-tenant PostgreSQL architecture
-- Event-driven processing with Kafka
-- High-availability backend architecture
+### 🎨 Frontend
 
-#### AI Document Assistant
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,sass,bootstrap" />
+</p>
 
-RAG-based document knowledge retrieval system.
+### ⚙️ Backend
 
-`NestJS` `TypeScript` `PostgreSQL` `pgvector` `Google Gemini`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,nestjs,express" />
+</p>
 
-- Semantic vector retrieval using pgvector
-- HNSW indexing for similarity search
-- Context-grounded LLM responses
-- Source-aware document answers
+### 🔌 APIs & Application Architecture
 
-#### Highly Available PostgreSQL Cluster
+<p align="left">
 
-`PostgreSQL` `Patroni` `Consul` `HAProxy` `PgBouncer` `Prometheus` `Grafana`
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
 
-Designed a PostgreSQL high-availability architecture with automated failover, connection pooling and monitoring.
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+
+<img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=azuredevops&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Event--Driven-6A1B9A?style=for-the-badge&logo=apachekafka&logoColor=white" />
+
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Apache%20Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+### 📨 Messaging & Async Processing
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq,redis" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/BullMQ-EF4444?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Event%20Driven%20Systems-4A154B?style=for-the-badge&logo=apachekafka&logoColor=white" />
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,terraform,jenkins,githubactions,nginx" />
+</p>
+
+### 🔧 Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,webpack" />
+</p>
+
+### 🧪 Testing & Quality
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=jest" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Unit%20Testing-25A162?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Integration%20Testing-6E40C9?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code%20Reviews-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+### 📊 Monitoring & Observability
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+</p>
+
+### 🤖 AI / RAG / LLM
+
+<p align="left">
+  <img src="https://img.shields.io/badge/RAG-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM%20Applications-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain4j-FF6B35?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector%20Search-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 ---
 
-### 🏆 Certifications
-
-- AWS Certified Developer – Associate
-- Certified Cybersecurity Educator Professional
-- Python for Data Science
-
----
-
-### 📚 Currently Exploring
+## 🏗️ What I Like Building
 
 ```text
-Distributed Systems
-        ↓
-Event-Driven Architecture
-        ↓
-AI / RAG Systems
-        ↓
-LLM Applications
-        ↓
-AI Agents & Agentic Systems
+                     FULL-STACK ENGINEERING
+                              │
+             ┌────────────────┼────────────────┐
+             │                │                │
+          FRONTEND         BACKEND          CLOUD
+             │                │                │
+       React / Next.js   Java / Spring    AWS / Docker
+       TypeScript        Node / NestJS    Terraform
+       Tailwind          REST / GraphQL   CI/CD
+             │                │                │
+             └────────────────┼────────────────┘
+                              │
+                       DATA & SYSTEMS
+                              │
+             ┌────────────────┼────────────────┐
+             │                │                │
+         PostgreSQL        Kafka / MQ       Redis
+         MongoDB           Events           Caching
+         Cassandra         Async Jobs       Queues
+             │                │                │
+             └────────────────┼────────────────┘
+                              │
+                         AI APPLICATIONS
+                              │
+                 RAG / Vector Search / LLMs
+                              │
+                   LangChain / Gemini / AI
