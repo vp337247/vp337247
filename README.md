@@ -28,7 +28,7 @@ Full-Stack Software Engineer • Java • Spring Boot • Node.js • React • 
 
 ## 👨‍💻 About
 
-Full-stack software engineer with 4+ years of experience building web applications, backend services, APIs and distributed systems.
+Full-stack software engineer with 5+ years of experience building web applications, backend services, APIs and distributed systems.
 
 Most of the work sits somewhere between product features, backend architecture, databases, cloud infrastructure and the frontend.
 
