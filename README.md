@@ -30,7 +30,7 @@ Full-Stack Software Engineer • Java • Spring Boot • Node.js • React • 
 
 Full-stack software engineer with 5+ years of experience building web applications, backend services, APIs and distributed systems.
 
-Most of the work sits somewhere between product features, backend architecture, databases, cloud infrastructure and the frontend.
+Most of the work sits somewhere between product features, backend architecture, databases, cloud infrastructure and the frontend. Pinned repositories below show recent work in more detail.
 
 ### Things worked with
 
@@ -41,7 +41,7 @@ Most of the work sits somewhere between product features, backend architecture, 
 - 📨 Messaging — Kafka, RabbitMQ, BullMQ
 - ☁️ Cloud — AWS
 - 🚀 DevOps — Docker, Terraform, Jenkins, GitHub Actions
-- 🤖 AI — RAG, pgvector, LLM applications, LangChain, LangChain4j, Gemini
+- 🤖 AI — RAG, pgvector, LLM applications, LangChain4j, Gemini
 - 📊 Monitoring — Prometheus, Grafana
 
 ---
@@ -51,7 +51,7 @@ Most of the work sits somewhere between product features, backend architecture, 
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,typescript,javascript,python,c" />
+  <img src="https://skillicons.dev/icons?i=java,typescript,javascript,python" />
 </p>
 
 ### Frontend
@@ -123,68 +123,10 @@ Most of the work sits somewhere between product features, backend architecture, 
 
 <p>
   <img src="https://img.shields.io/badge/RAG-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain4j-FF6B35?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/Vector%20Search-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
-
----
-
-## 🚀 Projects
-
-### ❄️ ColdChainOS
-
-Multi-tenant cold-chain logistics platform.
-
-`Java 21` `Spring Boot 3` `Kafka` `Redis` `PostgreSQL` `LangChain4j` `Gemini` `AWS` `Terraform`
-
-- PostgreSQL schema-per-tenant architecture
-- Transactional Outbox for reliable event publishing
-- Kafka-based event processing
-- High-availability backend architecture
-- AI features with LangChain4j and Gemini
-- AWS ECS Fargate deployment
-
----
-
-### 🤖 AI Document Assistant
-
-RAG-based document search and question-answering system.
-
-`NestJS` `TypeScript` `PostgreSQL` `pgvector` `Gemini` `Docker` `Jest`
-
-- Semantic search with vector embeddings
-- pgvector with HNSW indexing
-- Context-grounded LLM responses
-- Source-aware answers
-- Automated testing with Jest
-
----
-
-### 🗄️ Highly Available PostgreSQL Cluster
-
-`PostgreSQL` `Patroni` `Consul` `HAProxy` `PgBouncer` `Prometheus` `Grafana`
-
-- Automated PostgreSQL failover
-- Patroni-based cluster management
-- HAProxy traffic routing
-- PgBouncer connection pooling
-- Prometheus + Grafana monitoring
-
----
-
-### 🏠 Stavoya / Zapbed
-
-Vacation rental infrastructure.
-
-`NestJS` `PostgreSQL` `Redis` `Stripe` `Rentals United` `Socket.io` `AWS`
-
-- OTA and third-party API integrations
-- Stripe payment integration
-- Vendor abstraction and failover routing
-- Real-time status updates
-- Event-driven notifications
 
 ---
 
@@ -199,7 +141,6 @@ Vacation rental infrastructure.
 <img src="https://img.shields.io/badge/Event--Driven-Architecture-6A1B9A?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Cloud-Architecture-232F3E?style=for-the-badge&logo=amazonaws" />
 <img src="https://img.shields.io/badge/RAG-Applications-412991?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI-Agents-000000?style=for-the-badge&logo=openai" />
 
 </p>
 
@@ -228,7 +169,7 @@ Vacation rental infrastructure.
 </p>
 
 <p align="center">
-RAG • Vector Search • LLMs • AI Agents • Distributed Systems
+RAG • Vector Search • LLMs • Distributed Systems
 </p>
 
 ---
